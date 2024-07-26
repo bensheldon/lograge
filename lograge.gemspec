@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require './lib/lograge/version'
+require_relative 'lib/lograge/version'
 
 Gem::Specification.new do |s|
   s.name        = 'lograge'
